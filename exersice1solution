@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Best Meme</title>
+</head>
+This is my second Exersice
+
+<body>
+    <header>
+        <nav>Best Trending Memes</nav>
+        <main>
+            <div>
+                <div>
+                    <video src="video.1.mp4" width="" height="500" controls>1st Meme</video>
+                </div>
+                <br>
+                <div>
+                    <video src="video.2.mp4" width="" height="500" controls>2nd Meme</video>
+                </div>
+                <br>
+                <div>
+                    <video src="video.3.mp4" width="300" height="500" controls>3rd Meme</video>
+                </div>
+                <br>
+                <div>
+                    <video src="video.3.mp4" width="300" height="500" controls>3rd Meme</video>
+                </div>
+                <br>
+                <div>
+                    <video src="video.5.mp4" width=" " height="500" controls>3rd Meme</video>
+                </div>
+                <br>
+                <div>
+                    <video src="video.6.mp4" width=" " height="500" controls>3rd Meme</video>
+                </div>
+                <br>
+                <div>
+                    <audio src="amakabhosda.mp3" controls muted></audio>
+                </div>
+                <br>
+                <div>
+                    <audio src="banchosong.mp3" controls muted></audio>
+                </div>
+                <br>
+                <div>
+                    <audio src="arupali.mp3" controls muted></audio>
+                </div>
+                <br>
+                <div>
+                    <audio src="baccheterimaki.mp3" controls muted></audio>
+                </div>
+                <br>
+                <div>
+                    <audio src="audio.1.mp3" controls muted></audio>
+                </div>
+                <br>
+                <div>
+                    <audio src="asambhab.mp3" controls muted></audio>
+                </div>
+                <br>
+            </div>
+        </main>
+        <footer>
+            copyright 2023
+        </footer>
+
+    </header>
+</body>
+
+</html>
